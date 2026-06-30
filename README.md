@@ -11,8 +11,7 @@ cycling data to forecast battery health and predict **Remaining Useful Life (RUL
 (co-authors' names withheld for privacy) · **Supervisor:** Jiaqi Yao ·
 **Professor:** Prof. Dr.-Ing. Julia Kowal
 **Institution:** TU Berlin — Chair of Electrical Energy Storage Technology
-(*Fachgebiet Elektrische Energiespeichertechnik*), course *State Estimation and Diagnosis of
-Battery Systems* (SDB), WiSe 2025/26
+(*Fachgebiet Elektrische Energiespeichertechnik*)
 
 📄 The full lab reports are in [`reports/`](reports/).
 
@@ -77,7 +76,7 @@ data is the publicly available NASA Ames PCoE lithium-ion battery dataset.
 
 > Wendel, F., et al. (2026). *Battery State Estimation and Diagnosis: Model-Based SOC
 > Estimation and Data-Driven RUL Prediction.* Group laboratory project, Technische Universität
-> Berlin. See [`CITATION.cff`](CITATION.cff).
+> Berlin.
 
 ## License
 
