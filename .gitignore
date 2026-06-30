@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# MATLAB / Simulink
+*.asv
+*.autosave
+slprj/
+*.slxc
+
+# Training runs (keep the example checkpoint that is committed explicitly)
+02_data_driven_rul_prediction/save/*/
+!02_data_driven_rul_prediction/save/20260202_133830/
